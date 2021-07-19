@@ -1,0 +1,19 @@
+{
+  "name": "telemetry-ui",
+  "version": "0.0.1",
+  "description": "Sandbox/toy UI for the TelemetryTest EV-Loop project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evifctor/telemetry-ui.git"
+  },
+  "author": "Ezekiel Victor <hello@zeke.info>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/evictor/telemetry-ui/issues"
+  },
+  "homepage": "https://github.com/evictor/telemetry-ui#readme"
+}
