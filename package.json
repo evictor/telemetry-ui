@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/evifctor/telemetry-ui.git"
+    "url": "git+https://github.com/evictor/telemetry-ui.git"
   },
   "author": "Ezekiel Victor <hello@zeke.info>",
   "license": "UNLICENSED",
